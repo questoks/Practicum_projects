@@ -21,7 +21,7 @@
 - Интерактивный прототип приложения в Figma (ссылка ниже)
 
 ### Прототип интерфейса
-[(https://www.figma.com/design/PBuUEqzQemLOKd1z4scKKP/%D0%A8%D0%BC%D0%B5%D0%BB%D0%B5%D0%B2-%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-2?node-id=0-1&t=7CkZAEVHG5dk9AN8-1)]
+[Ссылка](https://www.figma.com/design/PBuUEqzQemLOKd1z4scKKP/%D0%A8%D0%BC%D0%B5%D0%BB%D0%B5%D0%B2-%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-2?node-id=0-1&t=7CkZAEVHG5dk9AN8-1)
 
 ### Цель проекта
 Демонстрация полного цикла работы системного аналитика: от анализа требований заказчика до создания прототипа интерфейса и подготовки документации для разработки.
